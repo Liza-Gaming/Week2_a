@@ -13,9 +13,14 @@ public class Oscillator : MonoBehaviour
 
     [SerializeField]
     [Tooltip("Maximum angle of swing")]
-    public float maxAngle = 75f; 
+    public float maxAngle = 75f;
+
 
     // Update is called once per frame
+
+
+
+
     void Update()
     {
         // Calculate the current swinging angle
