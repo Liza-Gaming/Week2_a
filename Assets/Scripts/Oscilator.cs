@@ -15,7 +15,6 @@ public class Oscillator : MonoBehaviour
     [Tooltip("Maximum angle of swing")]
     public float maxAngle = 75f; 
 
-
     // Update is called once per frame
     void Update()
     {
